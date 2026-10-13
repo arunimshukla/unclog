@@ -1,3 +1,3 @@
-### Fixed
+### Ignored
 
-- Support multiple changelog fragments added by a single commit.
+- Add regression coverage for multiple fragments in a single PR commit; the runtime fix is already present upstream.
